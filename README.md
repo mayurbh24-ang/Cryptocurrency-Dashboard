@@ -36,4 +36,5 @@
     It contains daily cryptocurrency price and volume data.
 
  7. Screenshot / Demos
- ![Dashboard Preview]            
+ ![Dashboard Preview](https://github.com/mayurbh24-ang/Cryptocurrency-Dashboard/blob/main/Overview-cryptocurrency-project.png)
+            
