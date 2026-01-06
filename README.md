@@ -37,4 +37,5 @@
 
  7. Screenshot / Demos
  ![Dashboard Preview](https://github.com/mayurbh24-ang/Cryptocurrency-Dashboard/blob/main/Overview-cryptocurrency-project.png)
+ ![Alt text](https://github.com/mayurbh24-ang/Cryptocurrency-Dashboard/blob/main/Plotly-Analysis.png)
             
