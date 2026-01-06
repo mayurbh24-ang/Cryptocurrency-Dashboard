@@ -36,7 +36,7 @@
     It contains daily cryptocurrency price and volume data.
 
  7. Screenshot / Demos
-    ![Dashboard](C:\Users\Mayur\OneDrive\Documents\Desktop/Overview-cryptocurrency-project.png)
+    ![Dashboard](/Overview-cryptocurrency-project.png)
 
  ![Dashboard Preview](https://github.com/mayurbh24-ang/Cryptocurrency-Dashboard/blob/main/Overview-cryptocurrency-project.png)
  ![Alt text](https://github.com/mayurbh24-ang/Cryptocurrency-Dashboard/blob/main/Plotly-Analysis.png)
