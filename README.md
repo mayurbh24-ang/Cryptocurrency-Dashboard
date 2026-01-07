@@ -6,7 +6,7 @@
         This project presents an interactive Power BI dashboard designed to analyze and visualize cryptocurrency market trends. The dashboard helps users understand price movements, market capitalization, trading volume, and performance trends across major cryptocurrencies.
         The goal of this project is to transform raw crypto market data into actionable insights for analysts, investors, and decision-makers.
    
-4. Objectives-
+3. Objectives-
 - Analyze historical cryptocurrency price trends
 - Compare performance of multiple cryptocurrencies
 - Track market capitalization and trading volume
