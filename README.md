@@ -37,7 +37,8 @@
 
  7. Screenshot / Demos
 ![Dashboard Preview](images/overview.png) <br>
-![Trends Analysis] <h3>Trends Analysis</h3> (images/Trends-Analysis.png)
+ ** Trends Analysis **
+![Trends Analysis](images/Trends-Analysis.png)
 
 
 
