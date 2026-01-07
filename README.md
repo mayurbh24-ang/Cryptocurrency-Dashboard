@@ -37,7 +37,7 @@
 
  7. Screenshot / Demos
 ![Dashboard Preview](images/overview.png)
-![Dashboard Preview](images/Trends-Analysis.png)
+![Trends Analysis](images/Trends-Analysis.png)
 
 
 
