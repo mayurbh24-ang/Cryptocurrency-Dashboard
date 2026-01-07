@@ -36,7 +36,7 @@
     It contains daily cryptocurrency price and volume data.
 
  7. Screenshot / Demos
-   ![Power BI Cryptocurrency Dashboard](https://raw.githubusercontent.com/mayurbh24-ang/Cryptocurrency-Dashboard/main/overview.png)
+   ![Dashboard Preview](images/overview.png)
 
 
 
