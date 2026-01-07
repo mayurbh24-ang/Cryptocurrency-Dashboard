@@ -36,10 +36,11 @@
     It contains daily cryptocurrency price and volume data.
 
  7. Screenshot / Demos
+ ** Overview Dashboard **   
 ![Dashboard Preview](images/overview.png) <br>
  ** Trends Analysis **
-![Trends Analysis](images/Trends-Analysis.png)
- <b>Plotly Analysis</b>
+![Trends Analysis](images/Trends-Analysis.png) <br>
+ ** Plotly Analysis **
 ![Plotly Analysis](images/Plotly-Analysis.png)
 
 
