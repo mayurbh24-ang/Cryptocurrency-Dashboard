@@ -12,7 +12,7 @@
 - Track market capitalization and trading volume
 - Identify growth patterns and volatility
 - Enable data-driven investment insights
-
+<br>
 4. Tools & Technologies
 - Power BI Desktop
 - Power Query (Data Cleaning & Transformation)
