@@ -35,7 +35,7 @@
     Dataset used in this project was sourced from a publicly available dataset shared in the tutorial.
     It contains daily cryptocurrency price and volume data.
 
- 7. Screenshot / Demos
+ 7. Screenshot / Demos <br>
  ** Overview Dashboard **   
 ![Dashboard Preview](images/overview.png) <br>
  ** Trends Analysis **
