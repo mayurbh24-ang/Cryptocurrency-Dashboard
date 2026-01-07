@@ -39,6 +39,7 @@
 ![Dashboard Preview](images/overview.png) <br>
  ** Trends Analysis **
 ![Trends Analysis](images/Trends-Analysis.png)
-
+ <b>Plotly Analysis</b>
+![Plotly Analysis](images/Plotly-Analysis.png)
 
 
