@@ -11,13 +11,13 @@
 - Compare performance of multiple cryptocurrencies
 - Track market capitalization and trading volume
 - Identify growth patterns and volatility
-- Enable data-driven investment insights
+- Enable data-driven investment insights <br>
 
 4. Tools & Technologies
 - Power BI Desktop
 - Power Query (Data Cleaning & Transformation)
 - DAX (Calculated Measures & KPIs)
-- File format - .pbix for development and .png for dashboard previews.
+- File format - .pbix for development and .png for dashboard previews. <br>
   
  5. Dashboard Features<br>
  ✔ Interactive filters (Cryptocurrency, Date Range) <br>
